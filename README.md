@@ -2,7 +2,7 @@ Dash Snippet Converter(Sublime Text to Dash)
 
 ## Setup
 ```
-$ git clone https://github.com/tbpgr/sublime_snippet_to_dash.git
+$ git clone https://github.com/tbpgr/sublime_to_dash_snippet_converter.git
 ```
 
 ## Structure
@@ -24,7 +24,7 @@ $ tree
 ## Settings
 ### Move to work dir
 ```
-$ cd %git%/sublime_snippet_to_dash
+$ cd %git%/sublime_to_dash_snippet_converter
 
 # check rake task
 $ rake -T
