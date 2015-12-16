@@ -75,6 +75,6 @@ title = "fa-500px;;"
 ```
 
 ## Relation
-https://github.com/tbpgr/dash_snippets_builder
-https://github.com/tbpgr/dash-snippets
+* https://github.com/tbpgr/dash_snippets_builder  
+* https://github.com/tbpgr/dash-snippets  
 
